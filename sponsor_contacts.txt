@@ -1,0 +1,47 @@
+Entries: /***** Copy the entries as given below and add them in the .txt file by providing the data as specified *****/
+
+         /***** Notes ==> Not answered --> no conversation
+                          Others --> Whatever is relevant to note from the conversation 
+                          ____________ --> Not yet called                     *****/
+
+Name:
+Position:
+Contact No.
+Email:
+Notes:
+
+Name: Vishal Sharma
+Position: Chief Sales & Marketing Officer at Raymond Limited
+Contact No. 9872248888, 9892619785
+Email: vishaldevsharma@gmail.com, vishal.sharma@raymond.in
+Notes: Not answered
+
+Name: Arpit Gupta
+Position: Lead Marketing at Raymond Limited - Realty Division
+Contact No. 9870212652, 918097303776
+Email: arpit.g@raymond.in
+Notes: No interst shown in sponsering the even
+
+Name: Soumali Chakraborty
+Position: Head of Marketing at Arrow
+Contact No. 7406117472
+Email: mail2soumali@gmail.com, soumali.chakraborty@arvindbrands.co.in
+Notes: Shown interest, wanna know more, fest brochure sent, no response till now
+
+Name: Kausher Fathima
+Position: General Manager- Marketing & Merchandising at Arrow, Arvind Ltd
+Contact No. 9739847777
+Email: kaush143@gmail.com, kausher@arvind.com
+Notes: ____________
+
+Name: Karuna Rao
+Position: Head - Marketing, Peter England at Aditya Birla Fashion and Retail Ltd.
+Contact No. 9886380906, 8025203645
+Email: karuna.rao@gmail.com
+Notes: ____________
+
+Name:
+Position:
+Contact No.
+Email:
+Notes:
