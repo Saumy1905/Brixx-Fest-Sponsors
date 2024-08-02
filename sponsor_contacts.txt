@@ -1,6 +1,6 @@
 Entries: /***** Copy the entries as given below and add them in the .txt file by providing the data as specified *****/
 
-         /***** Notes ==> Not answered --> no conversation
+         /***** Notes ==> "Not answered" --> no conversation
                           Others --> Whatever is relevant to note from the conversation 
                           ____________ --> Not yet called                     *****/
 
@@ -32,20 +32,20 @@ Name: Kausher Fathima
 Position: General Manager- Marketing & Merchandising at "Arrow", Arvind Ltd
 Contact No. 9739847777
 Email: kaush143@gmail.com, kausher@arvind.com
-Notes: Initially said that: "I'm not her", then when I say words "marketing opportunity" her mind changes & she said I'm Kausher but at the end she said that: "You reached to the wrong point, we not sponser"
+Notes: Initially said that --> "I'm not her", then when I say words "marketing opportunity" her mind changes & she said that --> I'm Kausher but at the end she said that --> "You reached to the wrong point, we not sponser"
 
 Name: Karuna Rao
 Position: Head - Marketing, "Peter England" at Aditya Birla Fashion and Retail Ltd.
 Contact No. 9886380906, 8025203645
 Email: karuna.rao@gmail.com
-Notes: Called 2 time --> Reply in message --> Sorry, I can't talk right now
+Notes: Called 2 times --> Reply in message --> Sorry, I can't talk right now
        Called again on 2 August, 2024 --> Not answered
 
 Name: Shradha Kurup
 Position: Head - Visual Merchandising & Retail Marketing at "Raymond" Limited
 Contact No. 9702078038, +912261527320
 Email: shradha.kurup@raymond.in, shradhakurup@gmail.com
-Notes: Called on 2 August, 2024 --> Not answered
+Notes: Called 2 times on 2 August, 2024 --> Not answered
 
 Name: 
 Position:
